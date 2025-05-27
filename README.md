@@ -18,7 +18,7 @@ Para a extração de caracteristicas, as imagens foram convertidas para a escala
 
 A extração de caracteristicas é util principalmente para comparar imagens e consequentemente, classificar elas.
 
-Para a aplicação de IA, o dataset foi utilizado um dataset para classificação de cachorros e gatos onde o dataset foi dividido em 80% para treinamento e 20% para validação de acuracia. Foi utilizado CNNs devido ao seu forte vies em extrair caracteristicas de imagens devido aos "kernels" que escaneam a imagem e extraem caracteristicas de diferentes porções da imagem
+Para a aplicação de IA, foi utilizado um dataset para classificação de cachorros e gatos onde o mesmo foi dividido em 80% para treinamento e 20% para validação de acuracia. Foi utilizado CNNs devido ao seu forte vies em extrair caracteristicas de imagens devido aos "kernels" que escaneam a imagem e extraem caracteristicas de diferentes porções da imagem.
 
 
 # Resultados obtidos
